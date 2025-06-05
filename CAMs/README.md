@@ -50,11 +50,8 @@ Grad-CAMの動作は，以下のような手順で構成される．
 
 # CLIP：テキストと画像を結ぶ
 
-<<<<<<< HEAD
 [Source](https://openai.com/ja-JP/index/clip/)
 
-=======
->>>>>>> 421ab3653919983a3f6d2f4b0321f7c7e04a71ac
 ![](https://images.ctfassets.net/kftzwdyauwt9/fbc4f633-9ad4-4dc2-3809c22df5e0/0bd2d5abf90d052731538613e4a42668/overview-a.svg)
 
 CLIP（Contrastive Language–Image Pre-training）は，ゼロショット転移，自然言語教師，およびマルチモーダル学習に関する多数の先行研究に基づいて構築された手法である．ゼロショット学習という概念自体は10年以上前に遡ることができ，未見の物体カテゴリーにも適用可能な汎用的手法として，長年にわたりコンピュータビジョン分野における主要な研究テーマであり続けてきた．
